@@ -1,0 +1,11 @@
+
+/*Kartenausschnitt*/
+#map {
+    width: 1920px;
+    border: 3px solid #73AD21;
+}
+
+div{
+    align-content: center;
+}
+
